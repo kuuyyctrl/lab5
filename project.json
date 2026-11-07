@@ -1,0 +1,16 @@
+{
+  "name": "xhs_live_assistant",
+  "versionName": "0.1.0",
+  "versionCode": 1,
+  "packageName": "com.fzu.xhs.lab5",
+  "main": "main.js",
+  "launchConfig": {
+    "displaySplash": false,
+    "hideLogs": false
+  },
+  "permissions": [],
+  "packageNameList": [
+    "com.xingin.xhs"
+  ],
+  "minSdkVersion": 24
+}
